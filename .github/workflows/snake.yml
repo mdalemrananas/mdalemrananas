@@ -1,20 +1,22 @@
 name: Generate Snake
 
 on:
-  workflow_dispatch: # manual trigger
+  workflow_dispatch:   # Allows manual triggering
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate snake.svg
         uses: Platane/snk@v3
         with:
-          github_user_name: mdalemrananas
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
       - name: Upload snake.svg as artifact
