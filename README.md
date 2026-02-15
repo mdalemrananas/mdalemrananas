@@ -118,7 +118,7 @@ I am committed to advancing my expertise through research, practical projects, a
   <tr>
     <td width="320">
       <a href="https://github.com/yourusername/unieats">
-        <img src="assets/uniEat.jpeg" width="300" alt="UniEats Project">
+        <img src="assets/UniEats.jpeg" width="300" alt="UniEats Project">
       </a>
     </td>
     <td valign="top">
