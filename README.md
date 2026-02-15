@@ -27,7 +27,7 @@
 
 ## 👋 About Me  
 
-I am **Md Al Emran**, a final-year *Computer Science and Engineering* student specializing in **Data Science, Machine Learning, and Artificial Intelligence research**.  
+I am **Md Al Emran**, a final-year *Computer Science and Engineering* student specializing in **Data Science and Machine Learning.
 My primary interest lies in developing data-driven solutions that address real-world challenges.  
 
 I am committed to advancing my expertise through research, practical projects, and continuous learning, with the goal of contributing to innovative technologies that create measurable impact.  
@@ -36,34 +36,34 @@ I am committed to advancing my expertise through research, practical projects, a
 
 ## 🛠️ Tech & Tools
 
-### 🔑 Core Data Tools
+### 🔑 Language & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-%234470AD.svg?style=flat-square&logo=Seaborn&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-### 🧑‍💻 Development & Platforms
+### 🧑‍💻 Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 🗄️ Databases & Testing
+### 🗄️ Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Postgres-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
 </p>
 
 ### 🌟 Professional Strengths
@@ -81,40 +81,44 @@ I am committed to advancing my expertise through research, practical projects, a
   <!-- Innovest -->
   <tr>
     <td width="320">
-      <a href="https://github.com/yourusername/innovest">
-        <img src="assets/innovest.png" width="300" alt="Innovest Project">
+      <a href="https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform">
+        <img src="assets/innovest_homepage.jpeg" width="300" alt="Innovest Project">
       </a>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/yourusername/innovest">Innovest — AI-Powered Fintech Platform</a></b><br/>
+      <b><a href="https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform">Innovest — AI-Powered Fintech Platform</a></b><br/>
       Full-stack investor–startup matchmaking platform with AI-driven insights.<br/>
       <b>Tech:</b> Django · DRF · React · Firebase · scikit-learn · SSLCommerz · JWT<br/>
       <b>Highlights:</b> Developed ML pipelines with <b>90%+ prediction accuracy</b> and handled <b>5,000+ user records</b> in testing.<br/>
-      <a href="https://innovest-demo-link.com">Live demo</a> • <a href="https://github.com/yourusername/innovest">Source</a>
+      <a href="https://innovest-demo-link.com">Live demo</a> • <a href="https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform">Source</a>
     </td>
   </tr>
 
-  <!-- Gstore -->
+  <!-- ByteArena -->
   <tr>
-    <td width="320">
-      <a href="https://github.com/yourusername/gstore">
-        <img src="assets/gstore.png" width="300" alt="Gstore Project">
+  <td width="320">
+    <a href="https://github.com/mdalemrananas/ByteArena">
+      <img src="assets/ByteArena_Homepage.jpeg" width="300" alt="ByteArena Project">
+    </a>
+  </td>
+  <td valign="top">
+    <b>
+      <a href="https://github.com/mdalemrananas/ByteArena">
+        ByteArena — Competitive Programming Platform
       </a>
-    </td>
-    <td valign="top">
-      <b><a href="https://github.com/yourusername/gstore">Gstore — Grocery E-commerce Platform</a></b><br/>
-      Multi-user e-commerce system with catalog, cart, wishlist, and order management.<br/>
-      <b>Tech:</b> PHP · MySQL · JavaScript · HTML5 · CSS3 · PDO<br/>
-      <b>Highlights:</b> Designed a <b>secure database</b> preventing SQL injection and optimized queries, improving speed by <b>30%</b>.<br/>
-      <a href="https://gstore-demo-link.com">Live demo</a> • <a href="https://github.com/yourusername/gstore">Source</a>
-    </td>
-  </tr>
+    </b><br/>
+    Full-stack platform for coding contests and practice problems with separate user and admin panels.<br/>
+    <b>Tech:</b> Django · DRF · React · Firebase Auth · Supabase · PostgreSQL · JWT<br/>
+    <b>Features:</b> Contest management, problem authoring system, secure submissions with automated scoring, and real-time live leaderboards.<br/>
+    <a href="https://github.com/mdalemrananas/ByteArena">Source</a>
+  </td>
+</tr>
 
   <!-- UniEats -->
   <tr>
     <td width="320">
       <a href="https://github.com/yourusername/unieats">
-        <img src="assets/unieats.png" width="300" alt="UniEats Project">
+        <img src="assets/uniEat.jpeg" width="300" alt="UniEats Project">
       </a>
     </td>
     <td valign="top">
@@ -135,7 +139,7 @@ I am committed to advancing my expertise through research, practical projects, a
   <!-- Academic Resilience -->
   <tr>
     <td valign="top">
-      <b><a href="https://link-to-paper.com">Predicting Academic Resilience in Students with Depression Using Machine Learning</a></b><br/>
+      <b><a href="https://github.com/mdalemrananas/Machine-Learning-Paper">Predicting Academic Resilience in Students with Depression Using Machine Learning</a></b><br/>
       Used Gradient Boosting, Random Forest, XGBoost, SVM, and Neural Networks.<br/>
       <b>Results:</b> Achieved <b>R² = 0.999</b> and top classification performance; clustering validated with <b>Silhouette Score</b>.<br/>
     </td>
@@ -144,7 +148,7 @@ I am committed to advancing my expertise through research, practical projects, a
   <!-- Thesis -->
   <tr>
     <td valign="top">
-      <b><a href="https://link-to-thesis.com">Deep Learning–Based Information Extraction from Bangladeshi Land Documents (Thesis)</a></b><br/>
+      <b><a href="https://github.com/mdalemrananas/FYDP-Thesis">Deep Learning–Based Information Extraction from Bangladeshi Land Documents (Thesis)</a></b><br/>
       Developing OCR + NLP pipeline for Bangla land records to extract structured data and digitize governance records.<br/>
     </td>
   </tr>
