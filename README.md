@@ -90,7 +90,7 @@ I am committed to advancing my expertise through research, practical projects, a
       Full-stack investor–startup matchmaking platform with AI-driven insights.<br/>
       <b>Tech:</b> Django · DRF · React · Firebase · scikit-learn · SSLCommerz · JWT<br/>
       <b>Highlights:</b> Developed ML pipelines with <b>90%+ prediction accuracy</b> and handled <b>5,000+ user records</b> in testing.<br/>
-      <a href="https://innovest-demo-link.com">Live demo</a> • <a href="https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform">Source</a>
+      <a href="https://youtu.be/78ohsRon_a0">Live demo</a> • <a href="https://github.com/mdalemrananas/InnoVest-StartUp-Investment-Platform">Source</a>
     </td>
   </tr>
 
@@ -110,7 +110,7 @@ I am committed to advancing my expertise through research, practical projects, a
     Full-stack platform for coding contests and practice problems with separate user and admin panels.<br/>
     <b>Tech:</b> Django · DRF · React · Firebase Auth · Supabase · PostgreSQL · JWT<br/>
     <b>Features:</b> Contest management, problem authoring system, secure submissions with automated scoring, and real-time live leaderboards.<br/>
-    <a href="https://github.com/mdalemrananas/ByteArena">Source</a>
+    <a href="https://youtu.be/l-Rd3BHpD8s">Live demo</a> • <a href="https://github.com/mdalemrananas/ByteArena">Source</a>
   </td>
 </tr>
 
@@ -126,7 +126,7 @@ I am committed to advancing my expertise through research, practical projects, a
       Role-based system with dashboards, reporting, and rewards.<br/>
       <b>Tech:</b> Java 17 · JavaFX · SQLite · MVC/DAO · JUnit<br/>
       <b>Highlights:</b> Applied MVC/DAO design and reduced <b>load times by 25%</b> with optimized queries.<br/>
-      <a href="https://unieats-demo-link.com">Live demo</a> • <a href="https://github.com/yourusername/unieats">Source</a>
+      <a href="https://youtu.be/U79dlAFGaCU">Live demo</a> • <a href="https://github.com/yourusername/unieats">Source</a>
     </td>
   </tr>
 </table>
