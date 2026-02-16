@@ -19,7 +19,7 @@
  <a href="assets/MD_AL_EMRAN_CV.pdf">
   <img alt="Resume" src="https://img.shields.io/badge/-Resume-0A66C2?style=for-the-badge&logo=adobe">
 </a>
-  <a href="https://mdalemrananas.github.io/Portfolio-Md-Al-Emran/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge"></a>
+  <a href="https://mdalemrananas.github.io/PORTFOLIO-WEBSITE-MD-AL-EMRAN/"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge"></a>
   <a href="mdalemrananas@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-DD0031?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -160,5 +160,5 @@ I am committed to advancing my expertise through research, practical projects, a
 <p align="center">
   <a href="mdalemrananas@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/emran7164/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mdalemrananas.github.io/Portfolio-Md-Al-Emran/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://mdalemrananas.github.io/PORTFOLIO-WEBSITE-MD-AL-EMRAN/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
